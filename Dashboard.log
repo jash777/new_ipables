@@ -679,3 +679,27 @@ INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "GET /socket.io/?EIO=4&transp
 INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtKo-6w&sid=ErIsjBgi0zw-2WuIAAAA HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
 INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:03] "GET /socket.io/?EIO=4&transport=polling&t=OtKpBQk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:03] "GET /socket.io/?EIO=4&transport=polling&t=OtKpBQl HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:03] "POST /socket.io/?EIO=4&transport=polling&t=OtKpBkM&sid=DXwmmeQfAp1GBA6dAAAA HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:03] "POST /socket.io/?EIO=4&transport=polling&t=OtKpBkN&sid=zfdQ_mneZe5W2yVNAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:03] "GET /socket.io/?EIO=4&transport=polling&t=OtKpBkR&sid=DXwmmeQfAp1GBA6dAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:03] "GET /socket.io/?EIO=4&transport=polling&t=OtKpBkS&sid=zfdQ_mneZe5W2yVNAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:03] "GET /socket.io/?EIO=4&transport=polling&t=OtKpBkq&sid=zfdQ_mneZe5W2yVNAAAB HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\agent_linux\\agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpFaJ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpFaK HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "POST /socket.io/?EIO=4&transport=polling&t=OtKpGAa&sid=71R1p9-Fj67gciiJAAAA HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "POST /socket.io/?EIO=4&transport=polling&t=OtKpGAd&sid=Vil5gXWQnIiU6_uNAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpGAc&sid=71R1p9-Fj67gciiJAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpGAf&sid=Vil5gXWQnIiU6_uNAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpGB1&sid=Vil5gXWQnIiU6_uNAAAB HTTP/1.1" 200 -
