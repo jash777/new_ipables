@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block Port</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <nav class="bg-gray-800 p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <span class="text-white text-lg font-bold">Iptables Dashboard</span>
+            <ul class="flex space-x-4">
+                <li><a href="/" class="text-white">Home</a></li>
+                <li><a href="#" class="text-white">Agents</a></li>
+                <li><a href="/block_port" class="text-white">Port  Blocking</a></li>
+                <li><a href="/update" class="text-white">Process monitor</a></li>
+
+            </ul>
+        </div>
+    </nav>
+    <div class="container mt-5">
+        <center> <h1 style="font-family: 'Times New Roman', Times, serif; font-size: large; font-weight: bold" >Block Port</h1></center> 
+        <form id="blockPortForm">
+            <div class="form-group">
+                <label for="portNumber">Port Number:</label>
+                <input type="text" class="form-control" id="portNumber" name="portNumber">
+            </div>
+            <button type="submit" class="btn btn-primary">Block Port</button>
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        document.getElementById("blockPortForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent the form from submitting normally
+            
+            var portNumber = document.getElementById("portNumber").value;
+
+            // Send a POST request to the Flask route
+            fetch('/block_port', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({ portNumber: portNumber }),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                alert(data.message);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while blocking the port. Please try again.');
+            });
+        });
+    </script>
+</body>
+</html>

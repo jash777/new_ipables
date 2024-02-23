@@ -1,0 +1,681 @@
+INFO:root:{'_id': ObjectId('65d626f4448f0b3dd1f4c49b'), 'id': 2, 'protocol': 'udp', 'destination_port': 500, 'action': 'ACCEPT', 'description': 'Allow DNS lookups'}
+INFO:root:{'_id': '65d626f4448f0b3dd1f4c49b', 'id': 2, 'protocol': 'udp', 'destination_port': 500, 'action': 'ACCEPT', 'description': 'Allow DNS lookups'}
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCafkx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCafpi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "POST /socket.io/?EIO=4&transport=polling&t=OtCagrY&sid=G4YaUVP2K1F3uNkEAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCagra&sid=G4YaUVP2K1F3uNkEAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCaguC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "POST /socket.io/?EIO=4&transport=polling&t=OtCaguL&sid=JAQVA8S8Vv3xO6pbAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:19:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCaguN&sid=JAQVA8S8Vv3xO6pbAAAD HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d626f4448f0b3dd1f4c49b'), 'id': 2, 'protocol': 'udp', 'destination_port': 7005, 'action': 'ACCEPT', 'description': 'Allow DNS lookups'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules_mongo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCa-Zx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCa-YE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:03] "POST /socket.io/?EIO=4&transport=polling&t=OtCa-xz&sid=5fttTIUffQ00w4ELAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCa-x_&sid=5fttTIUffQ00w4ELAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:03] "POST /socket.io/?EIO=4&transport=polling&t=OtCa-y0&sid=GdBV-ypbHIaubg1GAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCa-y1&sid=GdBV-ypbHIaubg1GAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCa-yG&sid=5fttTIUffQ00w4ELAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:18] "GET /socket.io/?EIO=4&transport=websocket&sid=5fttTIUffQ00w4ELAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:18] "GET /socket.io/?EIO=4&transport=polling&t=OtCb2Wr HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:18] "POST /socket.io/?EIO=4&transport=polling&t=OtCb2Wz&sid=CxWATZQ9XEwliyFNAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:18] "GET /socket.io/?EIO=4&transport=polling&t=OtCb2W-&sid=CxWATZQ9XEwliyFNAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:20] "GET /socket.io/?EIO=4&transport=websocket&sid=CxWATZQ9XEwliyFNAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:20] "GET /socket.io/?EIO=4&transport=polling&t=OtCb357 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:20] "POST /socket.io/?EIO=4&transport=polling&t=OtCb35G&sid=-qebyaCCxzwCU0VoAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:20] "GET /socket.io/?EIO=4&transport=polling&t=OtCb35H&sid=-qebyaCCxzwCU0VoAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=websocket&sid=-qebyaCCxzwCU0VoAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCb3DA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "POST /socket.io/?EIO=4&transport=polling&t=OtCb3DO&sid=Zal2bpuK7BykwgfyAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCb3DQ&sid=Zal2bpuK7BykwgfyAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=websocket&sid=Zal2bpuK7BykwgfyAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCb3Fv HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "POST /socket.io/?EIO=4&transport=polling&t=OtCb3G8&sid=gKa-vVtblqhqVs1BAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCb3GB&sid=gKa-vVtblqhqVs1BAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=websocket&sid=gKa-vVtblqhqVs1BAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCb3IF HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "POST /socket.io/?EIO=4&transport=polling&t=OtCb3IS&sid=rtYzXgR5qvgWGvRIAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCb3IU&sid=rtYzXgR5qvgWGvRIAAAM HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "GET /socket.io/?EIO=4&transport=polling&t=OtCb6t5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "GET /socket.io/?EIO=4&transport=polling&t=OtCb6oQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "POST /socket.io/?EIO=4&transport=polling&t=OtCb7z8&sid=w56-gMgGiWC9a4iJAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "GET /socket.io/?EIO=4&transport=polling&t=OtCb7zA&sid=w56-gMgGiWC9a4iJAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "GET /socket.io/?EIO=4&transport=polling&t=OtCb7zo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "GET /socket.io/?EIO=4&transport=polling&t=OtCb7-0&sid=w56-gMgGiWC9a4iJAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "POST /socket.io/?EIO=4&transport=polling&t=OtCb7-D&sid=qeHU0V5NWFo1hR0cAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:21:40] "GET /socket.io/?EIO=4&transport=polling&t=OtCb7-E&sid=qeHU0V5NWFo1hR0cAAAD HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d629f68bc0984f82ae2498'), 'id': 4, 'protocol': 'tcp', 'destination_port': 900, 'action': 'ACCEPT', 'description': 'Allow DNS lookups'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules_mongo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:19] "GET /socket.io/?EIO=4&transport=polling&t=OtCbkQL HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:19] "GET /socket.io/?EIO=4&transport=polling&t=OtCbkIz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:19] "POST /socket.io/?EIO=4&transport=polling&t=OtCbkuy&sid=85QDos-SATEnb9InAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:19] "POST /socket.io/?EIO=4&transport=polling&t=OtCbku_&sid=yE4u-GjaopFEb5EFAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:19] "GET /socket.io/?EIO=4&transport=polling&t=OtCbkv1&sid=yE4u-GjaopFEb5EFAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:19] "GET /socket.io/?EIO=4&transport=polling&t=OtCbkv0&sid=85QDos-SATEnb9InAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "GET /socket.io/?EIO=4&transport=polling&t=OtCbuBQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "GET /socket.io/?EIO=4&transport=polling&t=OtCbu5A HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "POST /socket.io/?EIO=4&transport=polling&t=OtCbuca&sid=Y5Wm1EliC4YHOJYNAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "GET /socket.io/?EIO=4&transport=polling&t=OtCbucc&sid=Y5Wm1EliC4YHOJYNAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "GET /socket.io/?EIO=4&transport=polling&t=OtCbueg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "POST /socket.io/?EIO=4&transport=polling&t=OtCbueq&sid=_vDWnXhaefO-YR-LAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:24:59] "GET /socket.io/?EIO=4&transport=polling&t=OtCbuer&sid=_vDWnXhaefO-YR-LAAAD HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43836'), 'id': 6, 'protocol': 'tcp', 'destination_port': 25, 'action': 'ACCEPT', 'description': 'Allow SMTP traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383a'), 'id': 10, 'protocol': 'tcp', 'destination_port': 389, 'action': 'ACCEPT', 'description': 'Allow LDAP traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:25:55] "GET /socket.io/?EIO=4&transport=polling&t=OtCc5od HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:25:55] "GET /socket.io/?EIO=4&transport=polling&t=OtCc65v HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:25:55] "POST /socket.io/?EIO=4&transport=polling&t=OtCc6Do&sid=4qTwkvm24jBDSSmTAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:25:55] "GET /socket.io/?EIO=4&transport=polling&t=OtCc6Dp&sid=4qTwkvm24jBDSSmTAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:25:55] "POST /socket.io/?EIO=4&transport=polling&t=OtCc6Dp&sid=II8UCvIjNBPOIJXMAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:25:55] "GET /socket.io/?EIO=4&transport=polling&t=OtCc6Dr&sid=II8UCvIjNBPOIJXMAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:25:55] "GET /socket.io/?EIO=4&transport=polling&t=OtCc6E8&sid=4qTwkvm24jBDSSmTAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules_mongo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:31] "GET /socket.io/?EIO=4&transport=polling&t=OtCdbo_ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:31] "GET /socket.io/?EIO=4&transport=polling&t=OtCdbuw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:31] "POST /socket.io/?EIO=4&transport=polling&t=OtCdcue&sid=HJmwbo-v-a6krPM3AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:31] "GET /socket.io/?EIO=4&transport=polling&t=OtCdcug&sid=HJmwbo-v-a6krPM3AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:31] "POST /socket.io/?EIO=4&transport=polling&t=OtCdcug&sid=DRDJO2F-8BgRAaXFAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:31] "GET /socket.io/?EIO=4&transport=polling&t=OtCdcuh&sid=DRDJO2F-8BgRAaXFAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:31] "GET /socket.io/?EIO=4&transport=polling&t=OtCdcuy&sid=HJmwbo-v-a6krPM3AAAB HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules_mongo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCde-2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCdexJ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:41] "POST /socket.io/?EIO=4&transport=polling&t=OtCdfL4&sid=zJhdRm051cz8bD2KAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCdfL6&sid=zJhdRm051cz8bD2KAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:41] "POST /socket.io/?EIO=4&transport=polling&t=OtCdfL6&sid=wKW6ZRognm0qR63xAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCdfL7&sid=wKW6ZRognm0qR63xAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:32:41] "GET /socket.io/?EIO=4&transport=polling&t=OtCdfLK&sid=zJhdRm051cz8bD2KAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules_mongo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:33:01] "GET /socket.io/?EIO=4&transport=polling&t=OtCdjqQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:33:01] "GET /socket.io/?EIO=4&transport=polling&t=OtCdk6D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:33:02] "POST /socket.io/?EIO=4&transport=polling&t=OtCdkLm&sid=gYC39HVwR2Ph4xPIAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:33:02] "GET /socket.io/?EIO=4&transport=polling&t=OtCdkLo&sid=gYC39HVwR2Ph4xPIAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:33:02] "POST /socket.io/?EIO=4&transport=polling&t=OtCdkLp&sid=3BLLbA9ktesp65YOAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:33:02] "GET /socket.io/?EIO=4&transport=polling&t=OtCdkLr&sid=3BLLbA9ktesp65YOAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:33:02] "GET /socket.io/?EIO=4&transport=polling&t=OtCdkM2&sid=gYC39HVwR2Ph4xPIAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\agent_manager.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCeUnM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCeUhU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:21] "POST /socket.io/?EIO=4&transport=polling&t=OtCeV8P&sid=4xx-MHOTgMYt9HjWAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCeV8R&sid=4xx-MHOTgMYt9HjWAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:21] "POST /socket.io/?EIO=4&transport=polling&t=OtCeV8R&sid=4gSM5M6R-e6U1TzkAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCeV8T&sid=4gSM5M6R-e6U1TzkAAAB HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\agent_manager.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:39] "GET /socket.io/?EIO=4&transport=polling&t=OtCeZ5M HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:39] "GET /socket.io/?EIO=4&transport=polling&t=OtCeZKa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:39] "POST /socket.io/?EIO=4&transport=polling&t=OtCeZYm&sid=CDZP0Zl3swwt_L0xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:39] "GET /socket.io/?EIO=4&transport=polling&t=OtCeZYo&sid=CDZP0Zl3swwt_L0xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:39] "POST /socket.io/?EIO=4&transport=polling&t=OtCeZYp&sid=h6b_Nr9yHCFzjy9SAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:36:39] "GET /socket.io/?EIO=4&transport=polling&t=OtCeZYr&sid=h6b_Nr9yHCFzjy9SAAAB HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:38] "GET /socket.io/?EIO=4&transport=polling&t=OtCenPc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:38] "GET /socket.io/?EIO=4&transport=polling&t=OtCenkU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:38] "POST /socket.io/?EIO=4&transport=polling&t=OtCenvq&sid=xDz7uwrFrbczS4dOAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:38] "GET /socket.io/?EIO=4&transport=polling&t=OtCenvt&sid=xDz7uwrFrbczS4dOAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:38] "POST /socket.io/?EIO=4&transport=polling&t=OtCenvt&sid=yREtlPHSBVtc09zcAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:38] "GET /socket.io/?EIO=4&transport=polling&t=OtCenvz&sid=yREtlPHSBVtc09zcAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:53] "GET /socket.io/?EIO=4&transport=websocket&sid=xDz7uwrFrbczS4dOAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:53] "[33mGET /agents HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:54] "[33mGET /agents HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:37:57] "[33mGET /agents HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:39:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:39:10] "GET /socket.io/?EIO=4&transport=polling&t=OtCf8Bn HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:39:10] "[33mGET /agents HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:39:10] "POST /socket.io/?EIO=4&transport=polling&t=OtCf8CB&sid=f8Vvco3eDlXEtQtfAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:39:10] "GET /socket.io/?EIO=4&transport=polling&t=OtCf8CE&sid=f8Vvco3eDlXEtQtfAAAE HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:08] "GET /socket.io/?EIO=4&transport=polling&t=OtCg1xA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:08] "GET /socket.io/?EIO=4&transport=polling&t=OtCg235 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:08] "POST /socket.io/?EIO=4&transport=polling&t=OtCg2Vb&sid=SVqWGKHELB8INLr5AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:08] "GET /socket.io/?EIO=4&transport=polling&t=OtCg2Vd&sid=SVqWGKHELB8INLr5AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:12] "GET /socket.io/?EIO=4&transport=polling&t=OtCg3U9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:12] "[33mGET /agents HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:12] "POST /socket.io/?EIO=4&transport=polling&t=OtCg3Vf&sid=DwAiVna1d_XM8wZsAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:12] "GET /socket.io/?EIO=4&transport=polling&t=OtCg3Vh&sid=DwAiVna1d_XM8wZsAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:13] "GET /socket.io/?EIO=4&transport=polling&t=OtCg3XC&sid=DwAiVna1d_XM8wZsAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:43:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCgU8X HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCgUNW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:03] "POST /socket.io/?EIO=4&transport=polling&t=OtCgUYX&sid=Z6Rr5qyWk89oR2lzAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:03] "GET /socket.io/?EIO=4&transport=polling&t=OtCgUYa&sid=Z6Rr5qyWk89oR2lzAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:07] "GET /socket.io/?EIO=4&transport=polling&t=OtCgVbG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:07] "[33mGET /agents HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:08] "POST /socket.io/?EIO=4&transport=polling&t=OtCgVcV&sid=1Tn7QECRShO2cTTiAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:08] "GET /socket.io/?EIO=4&transport=polling&t=OtCgVcW&sid=1Tn7QECRShO2cTTiAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:08] "GET /socket.io/?EIO=4&transport=polling&t=OtCgVdl&sid=1Tn7QECRShO2cTTiAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:17] "GET /socket.io/?EIO=4&transport=websocket&sid=1Tn7QECRShO2cTTiAAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCgYyx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:21] "POST /socket.io/?EIO=4&transport=polling&t=OtCgY-B&sid=aI6SGtB8Ten1TPAuAAAF HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCgY-C&sid=aI6SGtB8Ten1TPAuAAAF HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:21] "GET /socket.io/?EIO=4&transport=polling&t=OtCgZ01&sid=aI6SGtB8Ten1TPAuAAAF HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 22:45:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 23:20:17] "GET /socket.io/?EIO=4&transport=websocket&sid=aI6SGtB8Ten1TPAuAAAF HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2024 23:20:17] "GET /socket.io/?EIO=4&transport=websocket&sid=Z6Rr5qyWk89oR2lzAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:41:55] "GET /socket.io/?EIO=4&transport=polling&t=OtD5EC- HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:41:55] "GET /socket.io/?EIO=4&transport=polling&t=OtD5EDA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:42:17] "GET /socket.io/?EIO=4&transport=polling&t=OtD5Jfg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:42:17] "POST /socket.io/?EIO=4&transport=polling&t=OtD5Jfv&sid=HCv4dFGD7qXkty-cAAAJ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:42:17] "GET /socket.io/?EIO=4&transport=polling&t=OtD5Jfw&sid=HCv4dFGD7qXkty-cAAAJ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:42:18] "GET /socket.io/?EIO=4&transport=polling&t=OtD5JvC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:42:18] "POST /socket.io/?EIO=4&transport=polling&t=OtD5JvN&sid=7JtzCWj6Ao3qf_LIAAAL HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 00:42:18] "GET /socket.io/?EIO=4&transport=polling&t=OtD5JvQ&sid=7JtzCWj6Ao3qf_LIAAAL HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 01:20:23] "GET /socket.io/?EIO=4&transport=websocket&sid=7JtzCWj6Ao3qf_LIAAAL HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 01:20:23] "GET /socket.io/?EIO=4&transport=websocket&sid=HCv4dFGD7qXkty-cAAAJ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:26:18] "GET /socket.io/?EIO=4&transport=polling&t=OtFA-IV HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:26:18] "GET /socket.io/?EIO=4&transport=polling&t=OtFA-HW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:26:26] "POST /socket.io/?EIO=4&transport=polling&t=OtFA_iu&sid=9pBpm9ijYYpZuuLzAAAN HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:26:26] "GET /socket.io/?EIO=4&transport=polling&t=OtFA_ix&sid=9pBpm9ijYYpZuuLzAAAN HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:26:26] "POST /socket.io/?EIO=4&transport=polling&t=OtFA_ix&sid=D2Xtq_AK1iImcF5SAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:26:26] "GET /socket.io/?EIO=4&transport=polling&t=OtFA_j0&sid=D2Xtq_AK1iImcF5SAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:26:26] "GET /socket.io/?EIO=4&transport=polling&t=OtFB0dV&sid=D2Xtq_AK1iImcF5SAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:08] "GET /socket.io/?EIO=4&transport=websocket&sid=9pBpm9ijYYpZuuLzAAAN HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:08] "GET /socket.io/?EIO=4&transport=websocket&sid=D2Xtq_AK1iImcF5SAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:09] "GET /socket.io/?EIO=4&transport=polling&t=OtFBeL3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:09] "POST /socket.io/?EIO=4&transport=polling&t=OtFBeOf&sid=XDK67-vP6kXh_XmwAAAR HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:09] "GET /socket.io/?EIO=4&transport=polling&t=OtFBeOg&sid=XDK67-vP6kXh_XmwAAAR HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:09] "GET /socket.io/?EIO=4&transport=polling&t=OtFBeaY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:10] "POST /socket.io/?EIO=4&transport=polling&t=OtFBeaj&sid=0HfcZhM3e8Kdi8cUAAAT HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:29:10] "GET /socket.io/?EIO=4&transport=polling&t=OtFBeal&sid=0HfcZhM3e8Kdi8cUAAAT HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:25] "GET /socket.io/?EIO=4&transport=websocket&sid=0HfcZhM3e8Kdi8cUAAAT HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:25] "GET /socket.io/?EIO=4&transport=websocket&sid=XDK67-vP6kXh_XmwAAAR HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:26] "GET /socket.io/?EIO=4&transport=polling&t=OtFCA19 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:26] "GET /socket.io/?EIO=4&transport=polling&t=OtFCA18 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:27] "POST /socket.io/?EIO=4&transport=polling&t=OtFCA1H&sid=HdG7oCLDz5lVw5x4AAAV HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:27] "GET /socket.io/?EIO=4&transport=polling&t=OtFCA1I&sid=HdG7oCLDz5lVw5x4AAAV HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:27] "POST /socket.io/?EIO=4&transport=polling&t=OtFCA1I&sid=NM-B67rXzcaMMyHDAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:27] "GET /socket.io/?EIO=4&transport=polling&t=OtFCA1K&sid=NM-B67rXzcaMMyHDAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:27] "GET /socket.io/?EIO=4&transport=polling&t=OtFCA1c&sid=HdG7oCLDz5lVw5x4AAAV HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:31:27] "GET /socket.io/?EIO=4&transport=polling&t=OtFCA1p&sid=NM-B67rXzcaMMyHDAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:36:05] "GET /socket.io/?EIO=4&transport=websocket&sid=NM-B67rXzcaMMyHDAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 10:36:09] "GET /socket.io/?EIO=4&transport=websocket&sid=HdG7oCLDz5lVw5x4AAAV HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:25:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:25:34] "GET /socket.io/?EIO=4&transport=polling&t=OtG1lTp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:25:34] "POST /socket.io/?EIO=4&transport=polling&t=OtG1lVn&sid=VDI06KeP-5-fVgEoAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:25:34] "GET /socket.io/?EIO=4&transport=polling&t=OtG1lVp&sid=VDI06KeP-5-fVgEoAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:25:34] "GET /socket.io/?EIO=4&transport=polling&t=OtG1lWJ&sid=VDI06KeP-5-fVgEoAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:25:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43839'), 'id': 9, 'protocol': 'udp', 'destination_port': 161, 'action': 'ACCEPT', 'description': 'Allow SNMP traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383b'), 'id': 11, 'protocol': 'udp', 'destination_port': 514, 'action': 'ACCEPT', 'description': 'Allow Syslog traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383e'), 'id': 14, 'protocol': 'tcp', 'destination_port': 5432, 'action': 'ACCEPT', 'description': 'Allow PostgreSQL traffic'}
+INFO:root:{'_id': '65d62ac05b252ea040c4383e', 'id': 14, 'protocol': 'tcp', 'destination_port': 5432, 'action': 'ACCEPT', 'description': 'Allow PostgreSQL traffic'}
+INFO:root:{'_id': '65d62ac05b252ea040c4383e', 'id': 14, 'protocol': 'tcp', 'destination_port': 5432, 'action': 'ACCEPT', 'description': 'Allow PostgreSQL traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43841'), 'id': 17, 'protocol': 'tcp', 'destination_port': 5900, 'action': 'ACCEPT', 'description': 'Allow VNC traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43836'), 'id': 6, 'protocol': 'tcp', 'destination_port': 25, 'action': 'ACCEPT', 'description': 'Allow SMTP traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:36:13] "GET /socket.io/?EIO=4&transport=polling&t=OtG4BjW HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:36:14] "POST /socket.io/?EIO=4&transport=polling&t=OtG4Bjh&sid=2QhdQmacBhFj4S3MAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:36:14] "GET /socket.io/?EIO=4&transport=polling&t=OtG4Bjj&sid=2QhdQmacBhFj4S3MAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:38:13] "GET /socket.io/?EIO=4&transport=polling&t=OtG4eYX HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:38:13] "POST /socket.io/?EIO=4&transport=polling&t=OtG4e-g&sid=SKOgFHMB62BytT7lAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:38:13] "GET /socket.io/?EIO=4&transport=polling&t=OtG4e-i&sid=SKOgFHMB62BytT7lAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtG4rd8 HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:39:07] "POST /socket.io/?EIO=4&transport=polling&t=OtG4s2V&sid=ZkCt3eHFIWdxESYzAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtG4s2W&sid=ZkCt3eHFIWdxESYzAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:50:27] "GET /socket.io/?EIO=4&transport=polling&t=OtG7Rj_ HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:50:27] "POST /socket.io/?EIO=4&transport=polling&t=OtG7SCn&sid=oAXEMkKP9StPpLCDAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:50:27] "GET /socket.io/?EIO=4&transport=polling&t=OtG7SCp&sid=oAXEMkKP9StPpLCDAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383c'), 'id': 12, 'protocol': 'tcp', 'destination_port': 1433, 'action': 'ACCEPT', 'description': 'Allow MSSQL traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383c'), 'id': '12', 'protocol': 'tcp', 'destination_port': 1433, 'action': 'ACCEPT', 'description': 'Allow MSSQL traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43841'), 'id': 17, 'protocol': 'tcp', 'destination_port': 5900, 'action': 'ACCEPT', 'description': 'Allow VNC traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:53:00] "GET /socket.io/?EIO=4&transport=polling&t=OtG814q HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:53:00] "POST /socket.io/?EIO=4&transport=polling&t=OtG81QD&sid=0Et-aFn7zgY1Nt5UAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:53:00] "GET /socket.io/?EIO=4&transport=polling&t=OtG81QG&sid=0Et-aFn7zgY1Nt5UAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 14:53:00] "GET /socket.io/?EIO=4&transport=polling&t=OtG81Qk&sid=0Et-aFn7zgY1Nt5UAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43841'), 'id': 17, 'protocol': 'tcp', 'destination_port': 5900, 'action': 'ACCEPT', 'description': 'Allow VNC traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43842'), 'id': 18, 'protocol': 'tcp', 'destination_port': 3306, 'action': 'ACCEPT', 'description': 'Allow MySQL traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:04:56] "GET /socket.io/?EIO=4&transport=polling&t=OtGAl-B HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:04:56] "POST /socket.io/?EIO=4&transport=polling&t=OtGAmMn&sid=2FXsfvd1VrViKQyIAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:04:56] "GET /socket.io/?EIO=4&transport=polling&t=OtGAmMp&sid=2FXsfvd1VrViKQyIAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43843'), 'id': 19, 'protocol': 'tcp', 'destination_port': 389, 'action': 'ACCEPT', 'description': 'Allow LDAP traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:08:51] "GET /socket.io/?EIO=4&transport=polling&t=OtGBf0Q HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:08:51] "POST /socket.io/?EIO=4&transport=polling&t=OtGBfXw&sid=JHc4niiCTIoleNbfAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:08:51] "GET /socket.io/?EIO=4&transport=polling&t=OtGBfX-&sid=JHc4niiCTIoleNbfAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:09:20] "GET /socket.io/?EIO=4&transport=polling&t=OtGBmFY HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:09:20] "POST /socket.io/?EIO=4&transport=polling&t=OtGBmeN&sid=eFzfxU0D9z-EZhjTAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:09:20] "GET /socket.io/?EIO=4&transport=polling&t=OtGBmeQ&sid=eFzfxU0D9z-EZhjTAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:09:56] "GET /socket.io/?EIO=4&transport=polling&t=OtGBvBP HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:09:56] "POST /socket.io/?EIO=4&transport=polling&t=OtGBvZZ&sid=it2RReYX8Ky2xsoXAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:09:56] "GET /socket.io/?EIO=4&transport=polling&t=OtGBvZa&sid=it2RReYX8Ky2xsoXAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43838'), 'id': 8, 'protocol': 'tcp', 'destination_port': 143, 'action': 'ACCEPT', 'description': 'Allow IMAP traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43840'), 'id': 16, 'protocol': 'tcp', 'destination_port': 3389, 'action': 'ACCEPT', 'description': 'Allow RDP traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43841'), 'id': 17, 'protocol': 'tcp', 'destination_port': 5900, 'action': 'ACCEPT', 'description': 'Allow VNC traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383a'), 'id': 10, 'protocol': 'tcp', 'destination_port': 389, 'action': 'ACCEPT', 'description': 'Allow LDAP traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:14:25] "GET /socket.io/?EIO=4&transport=polling&t=OtGCwcl HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:14:25] "POST /socket.io/?EIO=4&transport=polling&t=OtGCx79&sid=sUbE1JU9_j7g5hDaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 15:14:25] "GET /socket.io/?EIO=4&transport=polling&t=OtGCx7A&sid=sUbE1JU9_j7g5hDaAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:45] "GET /socket.io/?EIO=4&transport=polling&t=OtGNXGf HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:45] "POST /socket.io/?EIO=4&transport=polling&t=OtGNX_X&sid=eajiBwG7pWSvnEDQAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:46] "GET /socket.io/?EIO=4&transport=polling&t=OtGNX_a&sid=eajiBwG7pWSvnEDQAAAA HTTP/1.1" 200 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:46] "GET /socket.io/?EIO=4&transport=websocket&sid=eajiBwG7pWSvnEDQAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:51] "GET /socket.io/?EIO=4&transport=polling&t=OtGNZ0n HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:51] "POST /socket.io/?EIO=4&transport=polling&t=OtGNZHp&sid=s2JRTTjF7gSAo6FnAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:51] "GET /socket.io/?EIO=4&transport=polling&t=OtGNZHr&sid=s2JRTTjF7gSAo6FnAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:51] "GET /socket.io/?EIO=4&transport=polling&t=OtGNZK6&sid=s2JRTTjF7gSAo6FnAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:00:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:21] "GET /socket.io/?EIO=4&transport=websocket&sid=s2JRTTjF7gSAo6FnAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:02:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:11:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:11:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:57] "GET /socket.io/?EIO=4&transport=polling&t=OtGQKiH HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:58] "POST /socket.io/?EIO=4&transport=polling&t=OtGQKjc&sid=sqoZ4xmelqAiIzN3AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:58] "GET /socket.io/?EIO=4&transport=polling&t=OtGQKje&sid=sqoZ4xmelqAiIzN3AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:58] "GET /socket.io/?EIO=4&transport=polling&t=OtGQKl1&sid=sqoZ4xmelqAiIzN3AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:58] "GET /socket.io/?EIO=4&transport=polling&t=OtGQKlQ&sid=sqoZ4xmelqAiIzN3AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 16:12:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43832'), 'id': 2, 'protocol': 'tcp', 'destination_port': 80, 'action': 'ACCEPT', 'description': 'Allow HTTP traffic'}
+INFO:root:{'_id': '65d62ac05b252ea040c43832', 'id': 2, 'protocol': 'tcp', 'destination_port': 80, 'action': 'ACCEPT', 'description': 'Allow HTTP traffic'}
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:40] "GET /socket.io/?EIO=4&transport=websocket&sid=sqoZ4xmelqAiIzN3AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:45] "GET /socket.io/?EIO=4&transport=polling&t=OtH2L6s HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:45] "POST /socket.io/?EIO=4&transport=polling&t=OtH2L8N&sid=hVoEQ25wO3r0-ASDAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:45] "GET /socket.io/?EIO=4&transport=polling&t=OtH2L8O&sid=hVoEQ25wO3r0-ASDAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:45] "GET /socket.io/?EIO=4&transport=polling&t=OtH2L9c&sid=hVoEQ25wO3r0-ASDAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:45] "GET /socket.io/?EIO=4&transport=polling&t=OtH2L9u&sid=hVoEQ25wO3r0-ASDAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:07:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:08:12] "GET /socket.io/?EIO=4&transport=websocket&sid=hVoEQ25wO3r0-ASDAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:08:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:08:16] "GET /socket.io/?EIO=4&transport=polling&t=OtH2Scs HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:08:16] "POST /socket.io/?EIO=4&transport=polling&t=OtH2Slu&sid=O65L-zttepJ4NUOyAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:08:16] "GET /socket.io/?EIO=4&transport=polling&t=OtH2Slw&sid=O65L-zttepJ4NUOyAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:08:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:08:16] "GET /socket.io/?EIO=4&transport=polling&t=OtH2SpW&sid=O65L-zttepJ4NUOyAAAE HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43838'), 'id': 8, 'protocol': 'tcp', 'destination_port': 143, 'action': 'ACCEPT', 'description': 'Allow IMAP traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:10:36] "GET /socket.io/?EIO=4&transport=polling&t=OtH2-GA HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:10:36] "POST /socket.io/?EIO=4&transport=polling&t=OtH2-my&sid=LChT9BsmvToEFZjlAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:10:36] "GET /socket.io/?EIO=4&transport=polling&t=OtH2-m-&sid=LChT9BsmvToEFZjlAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43839'), 'id': 9, 'protocol': 'udp', 'destination_port': 161, 'action': 'ACCEPT', 'description': 'Allow SNMP traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383a'), 'id': 10, 'protocol': 'tcp', 'destination_port': 389, 'action': 'ACCEPT', 'description': 'Allow LDAP traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:11:14] "GET /socket.io/?EIO=4&transport=polling&t=OtH37fu HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:11:14] "POST /socket.io/?EIO=4&transport=polling&t=OtH384i&sid=hFfrYTNRejaOLQamAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:11:14] "GET /socket.io/?EIO=4&transport=polling&t=OtH384j&sid=hFfrYTNRejaOLQamAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43837'), 'id': 7, 'protocol': 'tcp', 'destination_port': 110, 'action': 'ACCEPT', 'description': 'Allow POP3 traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:12:06] "GET /socket.io/?EIO=4&transport=polling&t=OtH3KND HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:12:06] "POST /socket.io/?EIO=4&transport=polling&t=OtH3KxG&sid=RdGhoL00jy1n6TnYAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 19:12:06] "GET /socket.io/?EIO=4&transport=polling&t=OtH3KxI&sid=RdGhoL00jy1n6TnYAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43839'), 'id': 9, 'protocol': 'udp', 'destination_port': 161, 'action': 'ACCEPT', 'description': 'Allow SNMP traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43839'), 'id': 9, 'protocol': 'udp', 'destination_port': 161, 'action': 'ACCEPT', 'description': 'Allow SNMP traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43839'), 'id': 9, 'protocol': 'udp', 'destination_port': 161, 'action': 'ACCEPT', 'description': 'Allow SNMP traffic'}
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2024 22:27:43] "GET /socket.io/?EIO=4&transport=websocket&sid=RdGhoL00jy1n6TnYAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 01:33:09] "GET /socket.io/?EIO=4&transport=polling&t=OtIQYeJ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 01:33:32] "GET /socket.io/?EIO=4&transport=polling&t=OtIQeFF HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 01:33:32] "POST /socket.io/?EIO=4&transport=polling&t=OtIQeFP&sid=NI3L033P0tTynFl9AAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 01:33:32] "GET /socket.io/?EIO=4&transport=polling&t=OtIQeFT&sid=NI3L033P0tTynFl9AAAD HTTP/1.1" 200 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 02:02:59] "GET /socket.io/?EIO=4&transport=websocket&sid=NI3L033P0tTynFl9AAAD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 08:38:26] "GET /socket.io/?EIO=4&transport=polling&t=OtJxuPb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 08:38:49] "GET /socket.io/?EIO=4&transport=polling&t=OtJxz-G HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 08:38:49] "POST /socket.io/?EIO=4&transport=polling&t=OtJxz-P&sid=ug4kRaX5fBkb4OYGAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 08:38:49] "GET /socket.io/?EIO=4&transport=polling&t=OtJxz-R&sid=ug4kRaX5fBkb4OYGAAAG HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:46] "GET /socket.io/?EIO=4&transport=polling&t=OtKmMWc HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:46] "POST /socket.io/?EIO=4&transport=polling&t=OtKmNnk&sid=LfVT_EFD6MO-FUlGAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:46] "GET /socket.io/?EIO=4&transport=polling&t=OtKmNnn&sid=LfVT_EFD6MO-FUlGAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:56] "GET /socket.io/?EIO=4&transport=polling&t=OtKmQ4y HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:56] "POST /socket.io/?EIO=4&transport=polling&t=OtKmQ6D&sid=HDgxVv9ot-cWb0vOAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:56] "GET /socket.io/?EIO=4&transport=polling&t=OtKmQ6E&sid=HDgxVv9ot-cWb0vOAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:56] "GET /socket.io/?EIO=4&transport=polling&t=OtKmQ6v&sid=HDgxVv9ot-cWb0vOAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:27:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383b'), 'id': 11, 'protocol': 'udp', 'destination_port': 514, 'action': 'ACCEPT', 'description': 'Allow Syslog traffic'}
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43833'), 'id': 3, 'protocol': 'tcp', 'destination_port': 443, 'action': 'ACCEPT', 'description': 'Allow HTTPS traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "GET /socket.io/?EIO=4&transport=polling&t=OtKme5Z HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "GET /socket.io/?EIO=4&transport=polling&t=OtKme6r HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "POST /socket.io/?EIO=4&transport=polling&t=OtKmei0&sid=PaV41COm1ZL5Mp_DAAAA HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "POST /socket.io/?EIO=4&transport=polling&t=OtKmei1&sid=3Ev5pLJO3bxaz_T3AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "GET /socket.io/?EIO=4&transport=polling&t=OtKmei2&sid=3Ev5pLJO3bxaz_T3AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "GET /socket.io/?EIO=4&transport=polling&t=OtKmei3&sid=PaV41COm1ZL5Mp_DAAAA HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43833'), 'id': 3, 'protocol': 'tcp', 'destination_port': 443, 'action': 'ACCEPT', 'description': 'Allow HTTPS traffic'}
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "POST /socket.io/?EIO=4&transport=polling&t=OtKmeiL&sid=3Ev5pLJO3bxaz_T3AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:28:55] "GET /socket.io/?EIO=4&transport=polling&t=OtKmeiM&sid=3Ev5pLJO3bxaz_T3AAAB HTTP/1.1" 200 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c43836'), 'id': 6, 'protocol': 'tcp', 'destination_port': 25, 'action': 'ACCEPT', 'description': 'Allow SMTP traffic'}
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "GET /socket.io/?EIO=4&transport=polling&t=OtKnDi1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "GET /socket.io/?EIO=4&transport=polling&t=OtKnDi2 HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "POST /socket.io/?EIO=4&transport=polling&t=OtKnD_g&sid=aZPz1sYc1KGLw0M6AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "GET /socket.io/?EIO=4&transport=polling&t=OtKnD_h&sid=aZPz1sYc1KGLw0M6AAAB HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "POST /socket.io/?EIO=4&transport=polling&t=OtKnD_g&sid=Nhidf3INB779SKLMAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "GET /socket.io/?EIO=4&transport=polling&t=OtKnD_j&sid=Nhidf3INB779SKLMAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "GET /socket.io/?EIO=4&transport=polling&t=OtKnE00&sid=aZPz1sYc1KGLw0M6AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:31:28] "GET /socket.io/?EIO=4&transport=polling&t=OtKnE02&sid=Nhidf3INB779SKLMAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\agent_linux\\rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:00] "GET /socket.io/?EIO=4&transport=polling&t=OtKna9K HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:00] "GET /socket.io/?EIO=4&transport=polling&t=OtKna9M HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:00] "POST /socket.io/?EIO=4&transport=polling&t=OtKnaRE&sid=GzN0dUbOr6idSbUNAAAB HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:00] "POST /socket.io/?EIO=4&transport=polling&t=OtKnaRD&sid=g_qGmDQPBDJkTgtrAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:00] "GET /socket.io/?EIO=4&transport=polling&t=OtKnaRG&sid=GzN0dUbOr6idSbUNAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:00] "GET /socket.io/?EIO=4&transport=polling&t=OtKnaRG&sid=g_qGmDQPBDJkTgtrAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:00] "GET /socket.io/?EIO=4&transport=polling&t=OtKnaRa&sid=GzN0dUbOr6idSbUNAAAB HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\agent_linux\\agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKnf1_ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKnfHT HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:21] "POST /socket.io/?EIO=4&transport=polling&t=OtKnfSe&sid=xtd37ROgMgsySsDuAAAA HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:21] "POST /socket.io/?EIO=4&transport=polling&t=OtKnfSg&sid=7qzIa-AqF3gGPILzAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKnfSg&sid=xtd37ROgMgsySsDuAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKnfSi&sid=7qzIa-AqF3gGPILzAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKnfS-&sid=7qzIa-AqF3gGPILzAAAB HTTP/1.1" 200 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:55] "GET /socket.io/?EIO=4&transport=websocket&sid=xtd37ROgMgsySsDuAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:55] "GET /block_port HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:33:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:70
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:04] "POST /block_port HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:42] "GET /socket.io/?EIO=4&transport=polling&t=OtKnzJG HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:42] "POST /socket.io/?EIO=4&transport=polling&t=OtKnzKB&sid=7LuTkOlheuAISX-xAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:42] "GET /socket.io/?EIO=4&transport=polling&t=OtKnzKC&sid=7LuTkOlheuAISX-xAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:42] "GET /socket.io/?EIO=4&transport=polling&t=OtKnzKr&sid=7LuTkOlheuAISX-xAAAE HTTP/1.1" 200 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:47] "GET /socket.io/?EIO=4&transport=websocket&sid=7LuTkOlheuAISX-xAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:48] "GET /socket.io/?EIO=4&transport=polling&t=OtKn-tU HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:49] "POST /socket.io/?EIO=4&transport=polling&t=OtKn-xi&sid=R9-CD2NcjO9jdYGtAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:49] "GET /socket.io/?EIO=4&transport=polling&t=OtKn-xj&sid=R9-CD2NcjO9jdYGtAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:49] "GET /socket.io/?EIO=4&transport=polling&t=OtKn-z0&sid=R9-CD2NcjO9jdYGtAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:49] "GET /socket.io/?EIO=4&transport=polling&t=OtKn-zJ&sid=R9-CD2NcjO9jdYGtAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:34:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:07] "GET /socket.io/?EIO=4&transport=websocket&sid=R9-CD2NcjO9jdYGtAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:08] "GET /socket.io/?EIO=4&transport=polling&t=OtKo3iz HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:08] "POST /socket.io/?EIO=4&transport=polling&t=OtKo3jS&sid=HWGap5UXBtmo8y5DAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:08] "GET /socket.io/?EIO=4&transport=polling&t=OtKo3jT&sid=HWGap5UXBtmo8y5DAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:08] "GET /socket.io/?EIO=4&transport=polling&t=OtKo3jt&sid=HWGap5UXBtmo8y5DAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:19] "GET /socket.io/?EIO=4&transport=websocket&sid=HWGap5UXBtmo8y5DAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:20] "GET /socket.io/?EIO=4&transport=polling&t=OtKo6ey HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:20] "POST /socket.io/?EIO=4&transport=polling&t=OtKo6g3&sid=oAXbSdgXidELU9GIAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:20] "GET /socket.io/?EIO=4&transport=polling&t=OtKo6g5&sid=oAXbSdgXidELU9GIAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:20] "GET /socket.io/?EIO=4&transport=polling&t=OtKo6gZ&sid=oAXbSdgXidELU9GIAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:22] "GET /socket.io/?EIO=4&transport=websocket&sid=oAXbSdgXidELU9GIAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:23] "GET /socket.io/?EIO=4&transport=polling&t=OtKo7QQ HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:23] "POST /socket.io/?EIO=4&transport=polling&t=OtKo7Qv&sid=6qYsfDnUhWcMXahaAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:23] "GET /socket.io/?EIO=4&transport=polling&t=OtKo7Qw&sid=6qYsfDnUhWcMXahaAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:23] "GET /socket.io/?EIO=4&transport=polling&t=OtKo7RH&sid=6qYsfDnUhWcMXahaAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:26] "GET /socket.io/?EIO=4&transport=websocket&sid=6qYsfDnUhWcMXahaAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:26] "[33mGET /fetch_agents HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:30] "GET /socket.io/?EIO=4&transport=polling&t=OtKo8xl HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:30] "POST /socket.io/?EIO=4&transport=polling&t=OtKo8yD&sid=h9N8mhGRagZkPaAGAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:30] "GET /socket.io/?EIO=4&transport=polling&t=OtKo8yE&sid=h9N8mhGRagZkPaAGAAAO HTTP/1.1" 200 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:31] "GET /socket.io/?EIO=4&transport=websocket&sid=h9N8mhGRagZkPaAGAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:31] "GET /block_port HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:35] "GET /socket.io/?EIO=4&transport=polling&t=OtKoABM HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:35] "POST /socket.io/?EIO=4&transport=polling&t=OtKoAB-&sid=9ABN62BLYxMJFsJVAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:35] "GET /socket.io/?EIO=4&transport=polling&t=OtKoAC0&sid=9ABN62BLYxMJFsJVAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:35] "GET /socket.io/?EIO=4&transport=polling&t=OtKoACX&sid=9ABN62BLYxMJFsJVAAAQ HTTP/1.1" 200 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:48] "GET /socket.io/?EIO=4&transport=websocket&sid=9ABN62BLYxMJFsJVAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:49] "GET /socket.io/?EIO=4&transport=polling&t=OtKoDiJ HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:49] "POST /socket.io/?EIO=4&transport=polling&t=OtKoDiv&sid=mK322A5psbJANUVbAAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:49] "GET /socket.io/?EIO=4&transport=polling&t=OtKoDiw&sid=mK322A5psbJANUVbAAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:49] "GET /socket.io/?EIO=4&transport=polling&t=OtKoDjF&sid=mK322A5psbJANUVbAAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:35:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:36:00] "GET /socket.io/?EIO=4&transport=websocket&sid=mK322A5psbJANUVbAAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:36:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:36:01] "GET /socket.io/?EIO=4&transport=polling&t=OtKoGin HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:36:01] "POST /socket.io/?EIO=4&transport=polling&t=OtKoGjZ&sid=GrVaxiVdqAPPvyW6AAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:36:01] "GET /socket.io/?EIO=4&transport=polling&t=OtKoGjb&sid=GrVaxiVdqAPPvyW6AAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:36:01] "GET /socket.io/?EIO=4&transport=polling&t=OtKoGj-&sid=GrVaxiVdqAPPvyW6AAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:36:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\agent_linux\\process_monitor.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:38:04] "GET /socket.io/?EIO=4&transport=polling&t=OtKok7m HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:38:04] "GET /socket.io/?EIO=4&transport=polling&t=OtKok7o HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:38:04] "POST /socket.io/?EIO=4&transport=polling&t=OtKoke8&sid=4thpWcg4QJLdwVn7AAAA HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:38:04] "POST /socket.io/?EIO=4&transport=polling&t=OtKokeA&sid=1uAiYhjnIGr47ssgAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:38:04] "GET /socket.io/?EIO=4&transport=polling&t=OtKokeC&sid=1uAiYhjnIGr47ssgAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:38:04] "GET /socket.io/?EIO=4&transport=polling&t=OtKokeB&sid=4thpWcg4QJLdwVn7AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:38:04] "GET /socket.io/?EIO=4&transport=polling&t=OtKokeY&sid=1uAiYhjnIGr47ssgAAAB HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\Dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-747-043
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtKoz_M HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtKozli HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "POST /socket.io/?EIO=4&transport=polling&t=OtKo-6a&sid=LUbfF6_lh1Ot0r0JAAAB HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "POST /socket.io/?EIO=4&transport=polling&t=OtKo-6a&sid=ErIsjBgi0zw-2WuIAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtKo-6c&sid=LUbfF6_lh1Ot0r0JAAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtKo-6d&sid=ErIsjBgi0zw-2WuIAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:39:07] "GET /socket.io/?EIO=4&transport=polling&t=OtKo-6w&sid=ErIsjBgi0zw-2WuIAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'I:\\Iptables_dashboard\\dashboard.py', reloading
+INFO:werkzeug: * Restarting with stat

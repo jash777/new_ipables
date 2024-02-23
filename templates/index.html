@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.2/socket.io.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+        <nav class="bg-gray-800 p-4">
+            <div class="container mx-auto flex justify-between items-center">
+                <span class="text-white text-lg font-bold">Iptables Dashboard</span>
+                <ul class="flex space-x-4">
+                    <li><a href="/" class="text-white">Home</a></li>
+                    <li><a href="#" class="text-white">Agents</a></li>
+                    <li><a href="/block_port" class="text-white">Port  Blocking</a></li>
+                    <li><a href="/update" class="text-white">Process monitor</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container mt-5">
+
+        <h1>Dashboard</h1>
+        <form id="rule-form">
+            <div class="form-group">
+                <label for="rule-select">Select Rule:</label>
+<select class="form-control" id="rule-select" name="rule">
+    {% for rule in predefined_rules %}
+    <option value="{{ rule.id }}">{{ rule.description }}</option>
+    {% endfor %}
+</select>
+
+            </div>
+            <button type="button" class="btn btn-primary" id="apply-rule-btn">Apply Rule</button>
+        </form>
+        <div id="response-message" class="mt-3"></div>
+    </div>
+    
+    <script>
+        
+        const socket = io();
+
+        socket.on('connect', () => {
+            console.log('Connected to server');
+        });
+
+        document.getElementById('apply-rule-btn').addEventListener('click', function() {
+            const selectedRuleId = document.getElementById('rule-select').value;
+            console.log('Selected rule index:', selectedRuleId);  // Add this line for logging
+            socket.emit('apply-rule', selectedRuleId);
+        });
+
+        socket.on('response', data => {
+            document.getElementById('response-message').innerHTML = `<p>${data.message}</p>`;
+        });
+    </script>
+</body>
+</html>

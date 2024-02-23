@@ -1,0 +1,21 @@
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:172.18.80.1 - - [22/Feb/2024 16:13:00] "POST /apply-rules HTTP/1.1" 200 -
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:172.18.80.1 - - [22/Feb/2024 16:13:03] "POST /apply-rules HTTP/1.1" 200 -
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:172.18.80.1 - - [22/Feb/2024 19:08:19] "POST /apply-rules HTTP/1.1" 200 -
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:172.18.80.1 - - [23/Feb/2024 12:28:55] "POST /apply-rules HTTP/1.1" 200 -
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:172.18.80.1 - - [23/Feb/2024 12:29:07] "POST /apply-rules HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/i/Iptables_dashboard/agent_linux/rules.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-400-241
+INFO:werkzeug: * Detected change in '/mnt/i/Iptables_dashboard/agent_linux/agent.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-400-241
+INFO:werkzeug:172.18.80.1 - - [23/Feb/2024 12:34:04] "POST /block_port HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/i/Iptables_dashboard/agent_linux/process_monitor.py', reloading
+INFO:werkzeug: * Restarting with stat
