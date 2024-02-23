@@ -703,3 +703,19 @@ INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "POST /socket.io/?EIO=4&trans
 INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpGAc&sid=71R1p9-Fj67gciiJAAAA HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpGAf&sid=Vil5gXWQnIiU6_uNAAAB HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:21] "GET /socket.io/?EIO=4&transport=polling&t=OtKpGB1&sid=Vil5gXWQnIiU6_uNAAAB HTTP/1.1" 200 -
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:32] "GET /socket.io/?EIO=4&transport=websocket&sid=71R1p9-Fj67gciiJAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:35] "GET /socket.io/?EIO=4&transport=polling&t=OtKpJbN HTTP/1.1" 200 -
+INFO:__main__:Client connected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:35] "POST /socket.io/?EIO=4&transport=polling&t=OtKpJbs&sid=PTPCJomDdQCnCI1fAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:35] "GET /socket.io/?EIO=4&transport=polling&t=OtKpJbu&sid=PTPCJomDdQCnCI1fAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:35] "GET /socket.io/?EIO=4&transport=polling&t=OtKpJcb&sid=PTPCJomDdQCnCI1fAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:{'_id': ObjectId('65d62ac05b252ea040c4383c'), 'id': 12, 'protocol': 'tcp', 'destination_port': 1433, 'action': 'ACCEPT', 'description': 'Allow MSSQL traffic'}
+WARNING:__main__:Client disconnected
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:44] "GET /socket.io/?EIO=4&transport=websocket&sid=PTPCJomDdQCnCI1fAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:45] "GET /block_port HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:48] "[33mGET /update HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2024 12:40:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

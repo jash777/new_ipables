@@ -25,3 +25,5 @@ INFO:werkzeug: * Detected change in '/mnt/i/Iptables_dashboard/agent_linux/agent
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 107-400-241
+INFO:root:Iptables rule added successfully.
+INFO:werkzeug:172.18.80.1 - - [23/Feb/2024 12:40:41] "POST /apply-rules HTTP/1.1" 200 -
